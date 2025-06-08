@@ -28,11 +28,15 @@ A modern and interactive **QR Code Generator** web app built using **HTML, CSS, 
 ## 🌐 Live Demo
 🔗 https://onkar-kambale.github.io/QR-Code-Generator/
 
+---
+
 ## 📥 How to Use
 1. Type any text or URL in the input field
 2. Click on the "Generate" button
 3. View the QR code
 4. Click the "Download" button to save the image.
 
-##📄 License
+---
+ 
+## 📄 License
 This project is licensed under the MIT License.
