@@ -2,7 +2,7 @@
 
 A modern and interactive **QR Code Generator** web app built using **HTML, CSS, and JavaScript**. Simply enter any text or URL, click "Generate", and download your custom QR code instantly!
 
-![QR Code Generator Screenshot](./screenshot.png)
+![QR Code Generator Screenshot](Screenshot.png)
 
 ---
 
